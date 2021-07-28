@@ -1,0 +1,12 @@
+//instalar o pacote browser-sync
+npm install -g browser-sync
+
+//iniciar o server e atualizar automaticamente
+browser-sync start --server --files "*.html"
+
+
+
+yarn add bootstrap@4.3.1
+yarn add jquery
+
+yarn add @popperjs/core

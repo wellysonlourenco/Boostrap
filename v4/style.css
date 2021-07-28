@@ -1,0 +1,35 @@
+body{
+    background-color:tomato;
+}
+
+
+header{
+    margin: 2vh auto;
+}
+
+header,nav,main{
+    background-color: white;
+    min-height: 10vh;
+}
+
+nav,main{
+    min-height: 82vh;
+    margin: 0 1vh 0 1vh;
+}
+
+
+@media (min-width: 576px){
+    
+}
+
+@media(min-width: 768px){
+
+}
+
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 1200px){
+
+}
